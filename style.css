@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&family=Neuton:wght@300;400;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lobster Two', cursive;
+    font-family: 'Neuton', serif;
+}
+
+.jda {
+    padding: 10px 0 10px 100px;
+    background-color: #3b3759;
+    color:  rgb(199, 199, 199);
+}
+
+.line {
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+   
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 100px;
+    text-align: justify;
+    background-color: #3b3759;
+    color:  rgb(199, 199, 199);
+
+}
+
+.card {
+    width: 260px;
+    height: 70px;
+    border: 1px solid #000;
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 10PX;
+}
+
+.imgcard {
+    padding: 5px 5px;
+    
+}
+
+.cardlist {
+    display: flex;
+    padding: 0 100px;
+    justify-content: space-between;
+    background-color: #7aacb3;
+}
+
+.cardtext {
+    padding: 10px;
+}
+
+.slider2 {
+    width: 100%;
+    height: 350px;
+    border: 1px solid #000;
+
+}
+
+.slider {
+    padding: 0 100px;
+    display: flex;
+    justify-content: center;
+    background-color: #7aacb3;
+    padding-bottom: 20px;
+}
+
+.lineJ {
+    border-top: 1px solid #000;
+}
+
+.abj {
+    padding: 0 100px;
+    background-color: #cf8da7;
+}
+
+.video {
+    display: flex;
+    padding: 0 100px;
+    background-color: #cf8da7;
+}
+
+.video2 {
+    display: flex;
+    justify-content: center;
+    width: 620px;
+    height: 350px;
+    border: 1px solid #000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.zagolovok {
+    font-weight: bold;
+    padding-left: 30px;
+    margin-top: 20px;
+}
+
+.text {
+    padding-left: 30px;
+}
+
+.end {
+    padding-left: 30px;
+    padding-top: 15px;
+    font-weight: bold;
+}
+
+.imgs {
+    justify-content: space-between;
+    display: flex;
+    padding: 30px 90px;
+    background-color: #aa5377;
+
+}
+
+.imgs2 {
+
+    width: 200px;
+    height: 120px;
+    border: 1px solid #000;
+}
+
+.Arrow {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.searcher {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 250px;
+    background-color: #7aacb3;
+}
+
+.kcenter {
+    font-weight: bold;
+    border-bottom: 1px solid #000;
+    height: 25px;
+    padding-right: 10px;
+}
+
+.lineb {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #000;
+    width: 400px;
+    height: 25px;
+    background: transparent;
+
+
+}
+
+.bsearch {
+    justify-content: center;
+    width: 120px;
+    height: 25px;
+    border: 1px solid #000;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+.upev {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: #cf8da7;
+}
+
+.usa {
+    border-bottom: 1px solid black;
+    width: 100%;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.eventcard {
+    height: 128px;
+
+}
+
+
+
+.jdanews {
+    font-weight: bold;
+    border-bottom: 1px solid black;
+    width: 400px;
+    display: flex;
+    margin-top: 20px;
+}
+
+.febcads {}
+
+.feb {
+    margin-top: 10px;
+}
+
+.jdanewsfeb {
+    flex-wrap: wrap;
+    display: flex;
+    width: 100px;
+    height: 50px;
+
+}
+
+.usaeventcard {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+}
+
+.preend {
+    background-color: #aa5377;
+    height: 250px;
+    position: relative;
+    padding-left: 100px;
+
+}
+
+.case {
+    width: 480px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.sitam {
+    width: 480px;
+    padding-bottom: 30px;
+}
+
+.but {
+    width: 150px;
+    height: 30px;
+    border: 1px solid #000;
+    color: white;
+    background-color: black;
+}
+
+.kiluaa {
+    position: absolute;
+    right: 100px;
+    top: 10px;
+}
+
+.theend {
+    background-color: #3b3759;
+    height: 100px;
+
+
+}
+
+.txt {
+
+    display: flex;
+    justify-content: space-between;
+    padding: 0 200px;
+    padding-top: 40px;
+    color: rgb(199, 199, 199);
+
+}
